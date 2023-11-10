@@ -1,4 +1,25 @@
-**************************************************README*************************************************************************
+***********************************************************************************************README*******************************************************************************************************************
 
 --> This is the README file.
 --> It contains some basic information about the project.
+
+--> Project Title: "Brain Tumor Segmentation using Deep Neural Networks"
+ 
+--> Project Description :
+    --> This project is about Brain Tumor Segmentation. 
+    --> It will be done in two phases: phase1 and phase2
+    --> In phase1, we have built a simple cnn model based on baseline u-net architecture.
+    --> In phase2, we have planned to improve our model further. We will implement a multimodal u-net architecture, which will utilize all the images MRI images of a particualar patient to give better results. 
+    
+    
+--> Individual Contribution:
+    This project is being done by a team of two members:
+    	1. Dhruv Saini(12140590):
+    	   --> Did data processing
+    	   --> Made the data processed in such a way that it can be feed to our model
+    	   --> Did model prediction
+    	  
+    	2. Mitul Vardhan(12141070):
+    	   --> Implemented the baseline U-Net architecture for CNN model
+    	   --> Model training and analysis
+ 	
