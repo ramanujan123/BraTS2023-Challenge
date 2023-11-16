@@ -17,7 +17,6 @@
     	1. Dhruv Saini(12140590):
     	   --> Did data processing
     	   --> Made the data processed in such a way that it can be feed to our model
-    	   --> Did model prediction
     	  
     	2. Mitul Vardhan(12141070):
     	   --> Implemented the baseline U-Net architecture for CNN model
