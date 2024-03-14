@@ -3,12 +3,11 @@
 --> This is the README file.
 --> It contains some basic information about the project.
 
---> Project Title: "Brain Tumor Segmentation using Deep Neural Networks"
+--> Project Title: "Brain Tumor Segmentation using Deep Neural Networks for BraTS2023 Challenge"
  
 --> Project Description :
     --> This project is about Brain Tumor Segmentation. 
-    --> It has been done in two phases: phase1 and phase2
+    --> It has been done in two phases: phase1 and phase2.
     --> In phase1, a simple cnn model based on baseline u-net architecture was built.
     --> In phase2, attention mechanism was addded to the U-Net architecture to improve baseline predictions.
-    --> Saliency maps were used to show segmentation results
- 	
+    --> Saliency maps were used to show segmentation results.
